@@ -4,3 +4,4 @@ we propose a Multifaceted E(3)-Equivariant Graph Auto-Encoder that effectively l
 
 ![图片描述](https://github.com/YantingTong/EGNN/blob/main/figure/Figure1.png)
 
+## 📂 Document Structure
