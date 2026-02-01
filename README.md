@@ -34,7 +34,7 @@ Install the other environment dependencies
 pip install -r requirements.txt
 ```
 ## 📥 Data Acquisition
-If you are interested in our work and would like to obtain the dataset, please feel free to contact me via email to request the relevant data.
+If you are interested in our work and would like to obtain the dataset, please feel free to contact me via email at **2992986821@qq.com** to request access to the relevant data.
 
 ## 🚀 Quick Start
 1️⃣ If you wish to test our AE model, please execute：
