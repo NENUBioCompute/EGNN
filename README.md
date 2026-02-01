@@ -20,8 +20,14 @@ EGNN/
 ├─ test_resnet.py         # ResNet test script
 └─ train_model.py         # Model training script
 ```
-##⚙️ Install dependencies
+
+## ⚙️ Install dependencies
 We recommend using conda to create a virtual environment:
-```text
+```bash
 conda create -n egnn python=3.10
 conda activate egnn
+```
+Install the other environment dependencies
+```bash
+pip install -r requirements.txt
+```
