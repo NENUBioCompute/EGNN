@@ -14,8 +14,10 @@ EGNN/
 ├─ IEProtLib.zip          # Relevant dependency files
 ├─ README.md              # Project Description
 ├─ ae_train_list.txt      # List of training samples for the autoencoder
+├─ binary_list.txt        # Binary classification samples
 ├─ create_cnndata.py      # Generate fingerprint feature matrix
 ├─ create_hdf5.py         # Construct a graph by binding domains
+├─ requirements.txt       # Relevant environmental dependencies
 ├─ test_model.py          # Model testing script
 ├─ test_resnet.py         # ResNet test script
 └─ train_model.py         # Model training script
