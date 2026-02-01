@@ -34,8 +34,7 @@ Install the other environment dependencies
 pip install -r requirements.txt
 ```
 ## 📥 Data Acquisition
-The dataset is hosted on Hugging Face:  
-[Click here to download the binding-domain dataset](https://huggingface.co/datasets/12Yan/binding-domain/tree/main))
+If you are interested in our work and would like to obtain the dataset, please feel free to contact me via email to request the relevant data.
 
 ## 🚀 Quick Start
 1️⃣ If you wish to test our AE model, please execute：
