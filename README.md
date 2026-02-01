@@ -36,15 +36,11 @@ The dataset is hosted on Hugging Face:
 [Click here to download the binding-domain dataset](https://huggingface.co/datasets/12Yan/binding-domain)
 
 ## 🚀 Quick Start
-**1️⃣ Train AE**
-```bash
-python train_model.py
-```
-2️⃣ Test AE
+1️⃣ If you wish to test our AE model, please execute：
 ```bash
 python test_model.py
 ```
-3️⃣ Binding domain recognition
+2️⃣ If you wish to perform binding domain recognition, please execute:
 ```bash
 python test_resnet.py
 ```
