@@ -19,8 +19,7 @@ EGNN/
 ├─ test_model.py          # Model testing script
 ├─ test_resnet.py         # ResNet test script
 └─ train_model.py         # Model training script
----
-
+```
 ##⚙️ Install dependencies
 We recommend using conda to create a virtual environment:
 ```text
