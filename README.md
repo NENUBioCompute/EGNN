@@ -5,3 +5,16 @@ we propose a Multifaceted E(3)-Equivariant Graph Auto-Encoder that effectively l
 ![图片描述](https://github.com/YantingTong/EGNN/blob/main/figure/Figure1.png)
 
 ## 📂 Document Structure
+
+EGNN/
+├─ Figure/               
+├─ model/                 # Model Structure Code
+├─ model_weight/          # Trained model weights
+├─ IEProtLib.zip          # Relevant dependency files
+├─ README.md              # Project Description
+├─ ae_train_list.txt      # List of training samples for the autoencoder
+├─ create_cnndata.py      # Generate fingerprint feature matrix
+├─ create_hdf5.py         # Construct a graph by binding domains
+├─ test_model.py          # Model testing script
+├─ test_resnet.py         # ResNet test script
+└─ train_model.py         # Model training script
