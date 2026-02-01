@@ -31,3 +31,25 @@ Install the other environment dependencies
 ```bash
 pip install -r requirements.txt
 ```
+## 📥 Data Acquisition
+The dataset is hosted on Hugging Face:  
+[Click here to download the binding-domain dataset](https://huggingface.co/datasets/12Yan/binding-domain)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
