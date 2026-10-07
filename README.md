@@ -34,7 +34,7 @@ Install the other environment dependencies
 pip install -r requirements.txt
 ```
 ## 📥 Data Acquisition
-If you are interested in our work and would like to obtain the dataset, please feel free to contact me via email at **2992986821@qq.com** to request access to the relevant data.
+The dataset constructed in this study is publicly available on [Hugging Face](https://huggingface.co/datasets/12Yan/binding-domain/tree/main).
 
 ## 🚀 Quick Start
 1️⃣ If you wish to test our AE model, please execute：
